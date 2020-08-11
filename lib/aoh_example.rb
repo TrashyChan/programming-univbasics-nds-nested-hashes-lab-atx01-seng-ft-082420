@@ -33,7 +33,7 @@ def aoh_lookup(aoh, row, key)
     { :name => "Bruce Green", :occupation => "Fan of Mildred" }
     ]
     
-    infinite_jest[0][:name]
+    infinite_jest[2][:name]
 end
 
 def aoh_update(aoh, row, key, new_value)
