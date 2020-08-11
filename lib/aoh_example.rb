@@ -46,5 +46,5 @@ def aoh_update(aoh, row, key, new_value)
     ]
     
     infinite_jest[1][:name] = "Joelle van Dyne (PGOAT)"
-    infinite_jest[1][:name]
+    infinite_jest
 end
