@@ -26,11 +26,11 @@ end
 
 def aoh_lookup(aoh, row, key)
   infinite_jest = [
-    { name => "Don Gately", occupation => "Live-in Staff" },
-    { name => "Joelle van Dyne", occupation => "Radio Personality" },
-    { name => "Pat Monteseian", occupation => "Staff" },
-    { name => "Kate Gompert", occupation => "None" },
-    { name => "Bruce Green", occupation => "Fan of Mildred" }
+    { :name => "Don Gately", :occupation => "Live-in Staff" },
+    { :name => "Joelle van Dyne", :occupation => "Radio Personality" },
+    { :name => "Pat Monteseian", :occupation => "Staff" },
+    { :name => "Kate Gompert", :occupation => "None" },
+    { :name => "Bruce Green", :occupation => "Fan of Mildred" }
     ]
     
     infinite_jest[0][:name]
